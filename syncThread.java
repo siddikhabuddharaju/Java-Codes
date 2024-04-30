@@ -11,8 +11,6 @@ System.out.println(e);
 }
 }
 }
-Dept. of CSE, MVGR College of Engineering(Autonomous) 88
-Object Oriented Programming Lab Roll Number: 23335A0501
 }
 class Thread1 extends Thread{
 int num;
